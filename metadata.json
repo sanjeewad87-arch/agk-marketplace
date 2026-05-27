@@ -1,0 +1,6 @@
+{
+  "name": "AGK Marketplace",
+  "description": "A modern AI-powered premium marketplace with real-time chat, visual design, and price suggestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
